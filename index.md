@@ -3,7 +3,7 @@ Chicago, IL | 630-337-4454 | [dan@pourhadi.com](mailto:dan@pourhadi.com) | [Link
 
 ## **Principal/Lead Software Engineer** 
 
-Accomplished Software Engineer with over 10 years of technical experience specializing in native and non-native mobile development. Demonstrated proficiency in developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on architecture and design for robust and scalable software solutions.
+Accomplished software engineer with over 10 years of professional experience specializing in native and non-native mobile development. Demonstrated proficiency in architecting and developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on requirements and design for robust and scalable software solutions.
 
 ## **Core Competencies**
 - Native Mobile Development (iOS/Android)
@@ -33,10 +33,10 @@ Accomplished Software Engineer with over 10 years of technical experience specia
 *2021 – Present*
 
 *K Health is an AI-driven primary care platform, supporting telehealth applications for partners like Cedars-Sinai and Mayo Clinic.*
-- Co-architected next-generation platform, building new app and back-end from the ground up using Kotlin Multiplatform, SwiftUI, Jetpack Compose, Micronaut, and GraphQL.
+- Co-architected K's next-generation platform, building new app and back-end from the ground up using Kotlin Multiplatform, SwiftUI, Jetpack Compose, Micronaut, and GraphQL.
 - Developed a server-side layout rendering engine for native mobile UI using Kotlin Multiplatform, facilitating seamless coordination between engineers and design/product teams.
-- Designed a new chat protocol for automated (AI) conversations between a patient and K’s clinical intake, enabling type-safe end-to-communication across platforms including Micronaut (Kotlin) and Node.js (TypeScript)
-- Led engineering team, translating business requirements into engineering tasks, guiding ceremonies, conducting code reviews, and mentoring junior engineers.
+- Designed and implemented a new chat protocol for automated (AI) conversations between a patient and K’s clinical intake, enabling type-safe end-to-communication across platforms including Micronaut (Kotlin) and Node.js (TypeScript), and native mobile.
+- Led the engineering team responsible for the building out the new platform, translating business requirements into engineering tasks, guiding ceremonies, conducting code reviews, and mentoring junior engineers.
 
 ### **Principal AI Engineer | Elevance (formerly Anthem) – Remote**
 *2020 – 2021*
