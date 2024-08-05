@@ -5,17 +5,8 @@ Chicago, IL | 630-337-4454 | [dan@pourhadi.com](mailto:dan@pourhadi.com) | [Link
 
 Accomplished software engineer with over 13 years of professional experience specializing in native and non-native mobile development. Demonstrated proficiency in architecting and developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on requirements and design for robust and scalable software solutions.
 
-## **Core Competencies**
-- Native Mobile Development (iOS/Android)
-- Cross-Platform Mobile Development
-- Full-Stack Development
-- Backend Development
-- Architecture/Design
-- Project Management
-- Team Leadership
-- Software Development Life Cycle (SDLC)
-- Cloud
-- Machine Learning
+##  **Core Competencies**
+Native Mobile Development (iOS/Android) | Cross-Platform Mobile Development | Full-Stack Development | Backend Development | Architecture/Design | Project Management | Team Leadership | Software Development Life Cycle (SDLC) | Cloud | Machine Learning
 
 ## **Technical Skills**
 
