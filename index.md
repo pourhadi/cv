@@ -3,7 +3,7 @@ Chicago, IL | 630-337-4454 | [dan@pourhadi.com](mailto:dan@pourhadi.com) | [Link
 
 ## **Principal/Lead Software Engineer** 
 
-Accomplished software engineer with over 10 years of professional experience specializing in native and non-native mobile development. Demonstrated proficiency in architecting and developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on requirements and design for robust and scalable software solutions.
+Accomplished software engineer with over 13 years of professional experience specializing in native and non-native mobile development. Demonstrated proficiency in architecting and developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on requirements and design for robust and scalable software solutions.
 
 ## **Core Competencies**
 - Native Mobile Development (iOS/Android)
@@ -20,12 +20,10 @@ Accomplished software engineer with over 10 years of professional experience spe
 ## **Technical Skills**
 
 - Languages: Swift, Kotlin, Objective-C, Java, Python, TypeScript, C++, SQL
-- Frameworks: React Native, SwiftUI, UIKit, CoreAnimation, Jetpack Compose, Micronaut, GraphQL, TensorFlow, Keras
-- Tools: Pandas, NumPy, Cython, [Ray.io](http://ray.io/)
-- Databases: PostgreSQL, MongoDB
-- Cloud Services: Google Cloud Services
-- Other: Microservices, ARKit, visionOS
-
+- Frameworks: React Native, SwiftUI, UIKit, ARKit, CoreAnimation, Jetpack Compose, Micronaut, GraphQL
+- ML / Data: Tensorflow, Keras, Pandas, NumPy, Cython, [Ray.io](http://ray.io/)
+- Databases: PostgreSQL, SqlLite, MongoDB
+- Cloud Services: Google Cloud Services, AWS
 
 ## **Professional Experience**
 
