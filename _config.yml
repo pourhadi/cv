@@ -30,7 +30,7 @@ twitter_username: pourhadi
 github_username:  pourhaid
 
 # Build settings
-remote_theme: ankitsultana/researcher@gem
+remote_theme: pages-themes/minimal@v0.2.0
 
 # theme: minima
 plugins:
