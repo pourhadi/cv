@@ -29,10 +29,6 @@ Accomplished programmer with over 13 years of professional experience, specializ
 * Collaborated with K Health to convert the direct-to-consumer platform into an SDK.  
 * Coordinated with K Health and Anthem teams on requirements and oversaw implementation.
 
-
-
-
-
 #### **Senior Software Engineer** | Rocket Wagon – Chicago, IL
 ###### *2017 – 2020* 
 
@@ -41,13 +37,11 @@ Accomplished programmer with over 13 years of professional experience, specializ
 * Developed an application and Machine Learning models for a major wine distributor, guiding wineries in taking clear, consistent photos of wine bottles for use on sales and marketing platforms.  
 * Collaborated with Duracell engineers to create an algorithm estimating battery life using data from a BLE device attached to the battery and a cross-platform C++ library.
 
-
 #### Additional Experience
 
 * Senior iOS Engineer | AKTA, *2014 – 2016*  
 * Mobile Developer | Independent Contractor/Consultant, *2012 – 2014, 2016 \- 2017*  
 * Legislative Aide | Committee on Finance, Chicago City Council, *2009 – 2012*
-
 
 ## **Projects**
 
