@@ -30,7 +30,7 @@ twitter_username: pourhadi
 github_username:  pourhaid
 
 # Build settings
-remote_theme: pourhadi/online-cvs
+remote_theme: pourhadi/online-cv
 
 # theme: minima
 plugins:
