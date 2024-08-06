@@ -1,6 +1,6 @@
 # **Daniel Pourhadi**
 
-Chicago, IL | 630-337-4454 | dan@pourhadi.com | [linkedin.com/in/pourhadi](http://linkedin.com/in/pourhadi/)
+Chicago, IL  |  630-337-4454  |  dan@pourhadi.com  |  [linkedin.com/in/pourhadi](http://linkedin.com/in/pourhadi/)
 
 ### Principal/Lead Software Engineer
 
