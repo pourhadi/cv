@@ -39,9 +39,9 @@ Accomplished programmer with over 13 years of professional experience, specializ
 
 #### Additional Experience
 
-* Senior iOS Engineer | AKTA, *2014 – 2016*  
-* Mobile Developer | Independent Contractor/Consultant, *2012 – 2014, 2016 \- 2017*  
-* Legislative Aide | Committee on Finance, Chicago City Council, *2009 – 2012*
+* Senior iOS Engineer, AKTA, *2014 – 2016*  
+* Mobile Developer, Independent Contractor/Consultant, *2012 – 2014, 2016 - 2017*  
+* Legislative Aide, Committee on Finance, Chicago City Council, *2009 – 2012*
 
 ## **Projects**
 
