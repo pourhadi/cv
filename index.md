@@ -1,15 +1,14 @@
 # **Daniel Pourhadi**
 
-Chicago, IL | 630-337-4454 | dan@pourhadi.com | [linkedin.com/in/pourhadi/](http://linkedin.com/in/pourhadi/)
+Chicago, IL | 630-337-4454 | dan@pourhadi.com | [linkedin.com/in/pourhadi](http://linkedin.com/in/pourhadi/)
 
 ### Principal/Lead Software Engineer
 
 Accomplished programmer with over 13 years of professional experience, specializing in native and non-native mobile development with a particular passion for beautiful UI. Demonstrated proficiency in architecting and developing **cross-platform mobile applications**, **full-stack solutions**, and **back-end systems**. Experienced in collaborating with stakeholders on requirements and design for robust and scalable software solutions.
 
-## **Professional Experience**
+## Professional Experience
 
-#### Principal Software Engineer | K Health – Remote
-
+#### **Principal Software Engineer** | K Health – Remote
 ###### *2021 – Present*
 
 *K Health is an AI-driven primary care platform, supporting telehealth applications for partners like Cedars-Sinai and Mayo Clinic.*
@@ -20,19 +19,21 @@ Accomplished programmer with over 13 years of professional experience, specializ
 * Led the engineering team responsible for the building out the new platform, translating business requirements into engineering tasks, guiding ceremonies, conducting code reviews, and mentoring junior engineers.  
 * Worked extensively to support and improve K’s previous-generation React Native apps.
 
-#### Principal AI Engineer | Elevance (formerly Anthem) – Remote
-
+#### **Principal AI Engineer** | Elevance (formerly Anthem) – Remote
 ###### *2020 – 2021* 
 
 *Elevance is the largest healthcare payer in the Blue Cross Blue Shield network with 40 million members.*
 
-* Key contributor to Sydney Health, Elevance’s React Native membership application.  
+* Key contributor to Sydney Health, Elevance’s next-generation membership application.  
 * Implemented K Health’s AI symptom picker and virtual doctor visits into the Sydney Health application.  
 * Collaborated with K Health to convert the direct-to-consumer platform into an SDK.  
 * Coordinated with K Health and Anthem teams on requirements and oversaw implementation.
 
-#### **Senior Software Engineer** | Rocket Wagon – Chicago, IL
 
+
+
+
+#### **Senior Software Engineer** | Rocket Wagon – Chicago, IL
 ###### *2017 – 2020* 
 
 *Digital consultancy specializing in full stack software development projects from initial conception to deployment.*
@@ -48,7 +49,7 @@ Accomplished programmer with over 13 years of professional experience, specializ
 * Legislative Aide | Committee on Finance, Chicago City Council, *2009 – 2012*
 
 
-### **Projects**
+## **Projects**
 
 * **Model App for Apple Vision Pro** *2024 – Present*  
   Allows users to design immersive scenes from 3D models and set immersive 360-degree environments using visionOS, SwiftUI, RealityKit, ARKit, and Blender.  
@@ -59,7 +60,7 @@ Accomplished programmer with over 13 years of professional experience, specializ
 * **OnCue, The Music Player for iOS** *2010 – 2013*  
   Developed a popular music player for iPhone and iPad, introducing features such as dynamic queues, crossfading, and live visual waveforms.
 
-### Fun Facts
+## Fun Facts
 
 * Throughout high school and early college I contributed frequently to Macworld and MacAddict magazines and tech blogs like Engadget
 * The first mobile app I built was in middle school for the Palm III
